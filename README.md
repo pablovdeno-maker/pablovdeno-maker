@@ -8,6 +8,8 @@ Mi primer juego publicado es un **Solitario FreeCell (Carta Blanca)** en españo
 
 ### [▶ Jugar ahora gratis](https://freecell-solitaire-movil.pablovdeno.chatgpt.site/?play=1&utm_source=github_profile&utm_medium=referral&utm_campaign=freecell_launch)
 
+### [♢ Jugar el reto diario](https://freecell-solitaire-movil.pablovdeno.chatgpt.site/?daily=1&play=1&utm_source=github_profile&utm_medium=referral&utm_campaign=daily_challenge)
+
 - Sin registro ni descarga
 - Partidas ilimitadas
 - Pistas y opción de deshacer
@@ -17,3 +19,5 @@ Mi primer juego publicado es un **Solitario FreeCell (Carta Blanca)** en españo
 Si nunca has jugado, puedes empezar con la [guía para aprender a jugar a FreeCell](https://freecell-solitaire-movil.pablovdeno.chatgpt.site/como-jugar-freecell?utm_source=github_profile&utm_medium=referral&utm_campaign=freecell_launch).
 
 También está disponible la [página pública del proyecto](https://pablovdeno-maker.github.io/solitario-freecell-gratis/).
+
+English players can use the [FreeCell Online page](https://pablovdeno-maker.github.io/solitario-freecell-gratis/play-freecell-online.html).
