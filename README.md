@@ -6,7 +6,7 @@ Estoy creando juegos sencillos que se puedan disfrutar gratis desde el móvil y 
 
 Mi primer juego publicado es un **Solitario FreeCell (Carta Blanca)** en español, preparado para iPhone, Android, tablet y ordenador.
 
-### [▶ Jugar ahora gratis](https://freecell-solitaire-movil.pablovdeno.chatgpt.site/?utm_source=github_profile&utm_medium=referral&utm_campaign=freecell_launch)
+### [▶ Jugar ahora gratis](https://freecell-solitaire-movil.pablovdeno.chatgpt.site/?play=1&utm_source=github_profile&utm_medium=referral&utm_campaign=freecell_launch)
 
 - Sin registro ni descarga
 - Partidas ilimitadas
