@@ -33,3 +33,5 @@ En français : [jouer à FreeCell gratuit](https://freecell-solitaire-movil.pabl
 Auf Deutsch: [FreeCell kostenlos online spielen](https://freecell-solitaire-movil.pablovdeno.chatgpt.site/de/freecell-kostenlos?utm_source=github_profile&utm_medium=referral&utm_campaign=german_landing).
 
 In italiano: [gioca a FreeCell gratis online](https://freecell-solitaire-movil.pablovdeno.chatgpt.site/it/freecell-gratis?utm_source=github_profile&utm_medium=referral&utm_campaign=italian_landing).
+
+In het Nederlands: [speel FreeCell gratis online](https://freecell-solitaire-movil.pablovdeno.chatgpt.site/nl/freecell-gratis?utm_source=github_profile&utm_medium=referral&utm_campaign=dutch_landing).
