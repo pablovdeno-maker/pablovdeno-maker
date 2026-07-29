@@ -27,3 +27,5 @@ También está disponible la [página pública del proyecto](https://pablovdeno-
 English players can use the [FreeCell Online page](https://pablovdeno-maker.github.io/solitario-freecell-gratis/play-freecell-online.html).
 
 Em português: [jogar Paciência FreeCell grátis](https://freecell-solitaire-movil.pablovdeno.chatgpt.site/pt/freecell-gratis?utm_source=github_profile&utm_medium=referral&utm_campaign=portuguese_landing).
+
+En français : [jouer à FreeCell gratuit](https://freecell-solitaire-movil.pablovdeno.chatgpt.site/fr/freecell-gratuit?utm_source=github_profile&utm_medium=referral&utm_campaign=french_landing).
